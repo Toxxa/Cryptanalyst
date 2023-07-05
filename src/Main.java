@@ -16,6 +16,7 @@ public class Main {
                 String choice = reader.readLine();
                 System.out.println();
 
+
                 switch (choice) {
                     case "1":
                         encryptText(reader);
